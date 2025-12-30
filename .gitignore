@@ -1,0 +1,14 @@
+# Ignore Visual Studio cache and temp files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vsidx
+*.vscode/
+*.log
+
+# Docker artifacts
+output/
+publish/
