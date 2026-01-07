@@ -10,3 +10,15 @@ C:\AssetManagement\AssetManagement.Domain\obj\Debug\net10.0\AssetManagement.Doma
 C:\AssetManagement\AssetManagement.Domain\obj\Debug\net10.0\refint\AssetManagement.Domain.dll
 C:\AssetManagement\AssetManagement.Domain\obj\Debug\net10.0\AssetManagement.Domain.pdb
 C:\AssetManagement\AssetManagement.Domain\obj\Debug\net10.0\ref\AssetManagement.Domain.dll
+C:\AssetManagements\AssetManagement.Domain\bin\Debug\net10.0\AssetManagement.Domain.deps.json
+C:\AssetManagements\AssetManagement.Domain\bin\Debug\net10.0\AssetManagement.Domain.dll
+C:\AssetManagements\AssetManagement.Domain\bin\Debug\net10.0\AssetManagement.Domain.pdb
+C:\AssetManagements\AssetManagement.Domain\obj\Debug\net10.0\AssetManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\AssetManagements\AssetManagement.Domain\obj\Debug\net10.0\AssetManagement.Domain.AssemblyInfoInputs.cache
+C:\AssetManagements\AssetManagement.Domain\obj\Debug\net10.0\AssetManagement.Domain.AssemblyInfo.cs
+C:\AssetManagements\AssetManagement.Domain\obj\Debug\net10.0\AssetManagement.Domain.csproj.CoreCompileInputs.cache
+C:\AssetManagements\AssetManagement.Domain\obj\Debug\net10.0\AssetManagement.Domain.sourcelink.json
+C:\AssetManagements\AssetManagement.Domain\obj\Debug\net10.0\AssetManagement.Domain.dll
+C:\AssetManagements\AssetManagement.Domain\obj\Debug\net10.0\refint\AssetManagement.Domain.dll
+C:\AssetManagements\AssetManagement.Domain\obj\Debug\net10.0\AssetManagement.Domain.pdb
+C:\AssetManagements\AssetManagement.Domain\obj\Debug\net10.0\ref\AssetManagement.Domain.dll

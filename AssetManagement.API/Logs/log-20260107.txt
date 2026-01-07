@@ -428,3 +428,19 @@ DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
 2026-01-07 12:19:29.371 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
 2026-01-07 12:19:29.371 +05:30 [INF] Response status: 401
 2026-01-07 12:19:29.373 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44364/api/Roles - 401 null null 2.9342ms
+2026-01-07 14:07:30.649 +05:30 [INF] Starting AssetManagement API
+2026-01-07 14:07:30.819 +05:30 [INF] User profile is available. Using 'C:\Users\Administrator\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-01-07 14:07:31.437 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44364/ - null null
+2026-01-07 14:07:31.470 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-07 14:07:31.471 +05:30 [INF] Hosting environment: Development
+2026-01-07 14:07:31.471 +05:30 [INF] Content root path: C:\AssetManagements\AssetManagement.API
+2026-01-07 14:07:31.865 +05:30 [INF] Processing request: GET /
+2026-01-07 14:07:31.962 +05:30 [INF] Response status: 404
+2026-01-07 14:07:32.000 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44364/ - 404 null null 585.542ms
+2026-01-07 14:07:32.044 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:44364/, Response status code: 404
+2026-01-07 14:07:37.404 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44364/_vs/browserLink - null null
+2026-01-07 14:07:37.404 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44364/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-07 14:07:37.464 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44364/_framework/aspnetcore-browser-refresh.js - 200 16523 application/javascript; charset=utf-8 62.168ms
+2026-01-07 14:07:37.520 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44364/_vs/browserLink - 200 null text/javascript; charset=UTF-8 119.0044ms
+2026-01-07 14:07:37.587 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44364/swagger/v1/swagger.json - null null
+2026-01-07 14:07:37.705 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44364/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 119.3399ms
